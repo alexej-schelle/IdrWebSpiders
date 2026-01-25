@@ -167,5 +167,3 @@ Für **natürliche Personen** ist **IDR für Web Spiders** von **krealix.de** ko
 * 🖊️ **FH-Doz. Dr. A. Schelle** 
 
 ---
-
-Möchtest du, dass ich das für dich erledige?
